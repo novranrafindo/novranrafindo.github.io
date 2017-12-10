@@ -8,7 +8,7 @@ Perkenalkan Nama Saya Novran Rafindo, Saya Adalah Seorang Mahasiswa Di Universit
 
 <br>
 <a href="http://sif.uin-suska.ac.id/">Jurusan Sistem Informasi</a>
-</br>
+<br>
 <a href="http://uin-suska.ac.id/">Uin suska riau</a>
 
 ---
