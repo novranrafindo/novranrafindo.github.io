@@ -1,8 +1,8 @@
 # Site settings
-title: Novran
+title: Novran Rafindo
 email: novranrafindo5@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Rafindo
+  Pejuang S.Kom
 baseurl: "" # the subpath of your site, e.g. /newpath-for-emping
 url: "http://example.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
